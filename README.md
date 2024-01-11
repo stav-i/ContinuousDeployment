@@ -1,1 +1,1 @@
-![Github Actions](https://github.com/stav-i/ContinuousDeployment/workflows/ContinuousDeployment20240111075413/badge.svg)
+![Github Actions](https://github.com/stav-i/ContinuousDeployment/actions/workflows/ContinuousDeployment20240111075413.yml/badge.svg)
