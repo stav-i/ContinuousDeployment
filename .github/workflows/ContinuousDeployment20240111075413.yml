@@ -1,8 +1,8 @@
 name: Build and deploy .NET Core application to Web App ContinuousDeployment20240111075413
 on:
-  push:
+  pull_request:
     branches:
-    - master
+    - development
 env:
   AZURE_WEBAPP_NAME: ContinuousDeployment20240111075413
   AZURE_WEBAPP_PACKAGE_PATH: ContinuousDeployment\publish
